@@ -1,2 +1,0 @@
-this is done for cheking the text file in the branch of the repositiory 
-adding is not will show without giving a comment in console like git pull
